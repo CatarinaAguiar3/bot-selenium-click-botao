@@ -1,0 +1,1 @@
+# Bot Selenium para capturar e apertar um botão
