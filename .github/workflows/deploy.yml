@@ -1,0 +1,61 @@
+name: Deploy Selenium to EC2
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Faz o checkout do código do repositório
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 2. Cria o arquivo .env no runner com base no secret
+      - name: Create .env file
+        run: echo "${{ secrets.ENV_FILE_PRODUCTION }}" > .env
+
+      # 3. Usa SCP para copiar os arquivos para a EC2
+      - name: Copy files to EC2
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          source: "." # Copia todo o conteúdo do repositório
+          target: "/var/www/bot-mrv"
+
+      # 4. Executa comandos na EC2 via SSH
+      - name: Run deployment commands on EC2
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          script: |
+            # Navega para a pasta do projeto
+            cd /var/www/bot-mrv
+
+            # Instala dependências do sistema (caso necessário)
+            # sudo apt-get update
+            # sudo apt-get install -y python3-pip python3-dev python3-venv nginx
+
+            # Cria/ativa o ambiente virtual e instala as dependências Python
+            python3 -m venv venv
+            source venv/bin/activate
+            pip install -r requirements.txt
+
+            # Executar script
+            # python3 script.py
+
+
+            # pip install gunicorn
+
+
+            # Reinicia os serviços para aplicar as mudanças
+            # (Configuraremos gunicorn e nginx a seguir)
+            # sudo systemctl restart gunicorn
+            # sudo systemctl restart nginx
