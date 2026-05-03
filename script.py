@@ -8,8 +8,17 @@ import time
 import os
 from dotenv import load_dotenv
 
+def log(msg):
+    agora = time.strftime("%Y-%m-%d %H:%M:%S")
+    linha = f"[{agora}] {msg}"
+
+    print(linha)
+
+
+
 load_dotenv()
 
+log("Iniciando script")
 # Configurar o driver do Selenium (Chrome)
 options = webdriver.ChromeOptions()
 # Descomente a linha abaixo para modo headless (sem abrir a janela do navegador)
@@ -41,14 +50,14 @@ try:
 
     botao_login = espera_maxima.until(EC.element_to_be_clickable((By.ID, "Login")))
     botao_login.click()
-    print("Login realizado com sucesso.")
+    log("Login realizado com sucesso.")
     time.sleep(20)
 
     botao_atualizar = espera_maxima.until(
         EC.element_to_be_clickable((By.XPATH, "//button[@title='Atualizar']"))
     )
     botao_atualizar.click()
-    print("Botão 'Atualizar' clicado.")
+    log("Botão 'Atualizar' clicado.")
     time.sleep(60)
 
     try:
@@ -76,12 +85,12 @@ try:
 
         if botao_assumir.is_displayed():
             botao_assumir.click()
-            print("Botão 'Assumir' encontrado e clicado.")
+            log("Botão 'Assumir' encontrado e clicado.")
             time.sleep(5)
         else:
-            print("Botão 'Assumir' não encontrado ou não clicável.")
+            log("Botão 'Assumir' não encontrado ou não clicável.")
     except:
-        print("Tempo esgotado. Erro ao tentar encontrar o botão 'Assumir'.")
+        log("Tempo esgotado. Erro ao tentar encontrar o botão 'Assumir'.")
 
 finally:
     navegador.quit()
