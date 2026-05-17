@@ -35,30 +35,30 @@ navegador = webdriver.Chrome(
     service=Service(ChromeDriverManager().install()), options=options
 )
 navegador.get(os.getenv("SITE"))
-espera_maxima = WebDriverWait(navegador, 10)
+espera10 = WebDriverWait(navegador, 10)
+espera30 = WebDriverWait(navegador, 30)
 
 try:
-    input_username = espera_maxima.until(
+    input_username = espera10.until(
         EC.presence_of_element_located((By.ID, "username"))
     )
     input_username.send_keys(os.getenv("USER"))
 
-    input_password = espera_maxima.until(
+    input_password = espera10.until(
         EC.presence_of_element_located((By.ID, "password"))
     )
     input_password.send_keys(os.getenv("PASSWORD"))
 
-    botao_login = espera_maxima.until(EC.element_to_be_clickable((By.ID, "Login")))
+    botao_login = espera10.until(EC.element_to_be_clickable((By.ID, "Login")))
     botao_login.click()
     log("Login realizado com sucesso.")
-    time.sleep(20)
 
-    botao_atualizar = espera_maxima.until(
+    botao_atualizar = espera30.until(
         EC.element_to_be_clickable((By.XPATH, "//button[@title='Atualizar']"))
     )
     botao_atualizar.click()
     log("Botão 'Atualizar' clicado.")
-    time.sleep(60)
+    time.sleep(60) # Proteção para não clicar mais de uma vez em menos de 1 minuto
 
     try:
         # botao_assumir = espera_maxima.until(
@@ -70,7 +70,7 @@ try:
         #     )
         # )
 
-        botao_assumir = espera_maxima.until(
+        botao_assumir = espera10.until(
             EC.element_to_be_clickable(
                 (By.CSS_SELECTOR, "button.slds-button.slds-button_success.slds-button_stretch")
             )
