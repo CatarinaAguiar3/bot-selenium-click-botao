@@ -1,0 +1,25 @@
+Notificações|type:button
+tag:a|class:cBrandingLogo|title:Gestão de Vendas|text:Gestão de Vendas
+tag:a|class:cSearchInvokeMobile
+tag:a|class:forceSkipLink|text:Pular para a navegação
+tag:a|class:forceSkipLink|text:Pular para o conteúdo principal
+tag:a|class:trigger-link  
+tag:a|class:trigger-link  |text:Deise Lucia de Lucena Aguiar
+tag:a|id:auraErrorReload
+tag:a|id:dismissError|class:close|title:Cancel and close
+tag:button|class:slds-button slds-button slds-button_icon slds-button_icon slds-button_icon-container slds-button_icon-small slds-global-actions__notifications slds-global-actions__item-action|text:3
+tag:button|class:slds-button slds-button slds-button_icon slds-button_icon slds-button_icon-container slds-button_icon-small slds-global-actions__notifications slds-global-actions__item-action|text:Notificações|type:button
+tag:button|class:slds-button slds-button_brand|text:Criar Lead|type:button
+tag:button|class:slds-button slds-button_brand|text:Iniciar Jornada|type:button
+tag:iframe|name:sfxdash-1780790276991-871793|title:dashboard
+tag:iframe|name:sfxdash-1780790276999-750869|title:dashboard
+tag:iframe|name:sfxdash-1780791406544-553946|title:dashboard
+tag:iframe|name:sfxdash-1780791406550-649457|title:dashboard
+tag:iframe|name:sfxdash-1780849552918-653540|title:dashboard
+tag:iframe|name:sfxdash-1780849552923-528565|title:dashboard
+tag:iframe|name:sfxdash-1780849666490-847831|title:dashboard
+tag:iframe|name:sfxdash-1780849666495-354313|title:dashboard
+tag:iframe|name:sfxdash-1781812940859-222984|title:dashboard
+tag:iframe|name:sfxdash-1781812940868-597388|title:dashboard
+tag:img|class: profileIcon ally-image-border|title:Deise Lucia de Lucena Aguiar
+tag:input|id:187:0|class:slds-input slds-text-color_default slds-p-left--none slds-size--1-of-1 input default input uiInput uiInputTextForAutocomplete uiInput--{remove}|title:Procurar...|type:text
