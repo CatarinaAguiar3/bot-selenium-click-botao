@@ -581,3 +581,913 @@ Nenhum elemento novo detectado.
 Coletando elementos da página...
 [2026-06-24 15:27:53] Histórico carregado: 25 elementos conhecidos
 [2026-06-24 15:27:53] Iniciando script
+[2026-06-24 15:29:32] Histórico carregado: 25 elementos conhecidos
+[2026-06-24 15:29:32] Iniciando script
+[2026-06-24 15:29:45] Login realizado com sucesso.
+[2026-06-24 15:29:54] Botão 'Atualizar' clicado.
+[2026-06-24 15:29:54] 
+Coletando elementos da página...
+[2026-06-24 15:29:58] Total de elementos únicos encontrados: 14
+[2026-06-24 15:29:58] 
+ALERTA: 2 ELEMENTO(S) NOVO(S) DETECTADO(S)!
+[2026-06-24 15:29:58] ================================================================================
+[2026-06-24 15:29:58] 
+Elemento Novo #1:
+[2026-06-24 15:29:58]    Tag: iframe
+[2026-06-24 15:29:58]    Name: sfxdash-1782325794677-691560
+[2026-06-24 15:29:58]    Title: dashboard
+[2026-06-24 15:29:58]    Assinatura: tag:iframe|name:sfxdash-1782325794677-691560|title:dashboard
+[2026-06-24 15:29:58] --------------------------------------------------------------------------------
+[2026-06-24 15:29:58] 
+Elemento Novo #2:
+[2026-06-24 15:29:58]    Tag: iframe
+[2026-06-24 15:29:58]    Name: sfxdash-1782325794681-984980
+[2026-06-24 15:29:58]    Title: dashboard
+[2026-06-24 15:29:58]    Assinatura: tag:iframe|name:sfxdash-1782325794681-984980|title:dashboard
+[2026-06-24 15:29:58] --------------------------------------------------------------------------------
+[2026-06-24 15:29:58] Histórico salvo: 27 elementos
+[2026-06-24 15:30:58] Elementos novos detectados, mas nenhum é o botão 'Assumir'.
+[2026-06-24 15:30:58] Botão 'Atualizar' clicado.
+[2026-06-24 15:30:58] 
+Coletando elementos da página...
+[2026-06-24 15:30:59] Total de elementos únicos encontrados: 14
+[2026-06-24 15:30:59] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:31:59] Nenhum elemento novo na página.
+[2026-06-24 15:32:00] Botão 'Atualizar' clicado.
+[2026-06-24 15:32:00] 
+Coletando elementos da página...
+[2026-06-24 15:32:01] Total de elementos únicos encontrados: 14
+[2026-06-24 15:32:01] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:33:01] Nenhum elemento novo na página.
+[2026-06-24 15:33:01] Botão 'Atualizar' clicado.
+[2026-06-24 15:33:01] 
+Coletando elementos da página...
+[2026-06-24 15:33:02] Total de elementos únicos encontrados: 14
+[2026-06-24 15:33:02] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:34:02] Nenhum elemento novo na página.
+[2026-06-24 15:34:02] Botão 'Atualizar' clicado.
+[2026-06-24 15:34:02] 
+Coletando elementos da página...
+[2026-06-24 15:34:03] Total de elementos únicos encontrados: 14
+[2026-06-24 15:34:03] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:35:03] Nenhum elemento novo na página.
+[2026-06-24 15:35:04] Botão 'Atualizar' clicado.
+[2026-06-24 15:35:04] 
+Coletando elementos da página...
+[2026-06-24 15:35:05] Total de elementos únicos encontrados: 14
+[2026-06-24 15:35:05] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:36:05] Nenhum elemento novo na página.
+[2026-06-24 15:36:05] Botão 'Atualizar' clicado.
+[2026-06-24 15:36:05] 
+Coletando elementos da página...
+[2026-06-24 15:36:06] Total de elementos únicos encontrados: 14
+[2026-06-24 15:36:06] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:37:06] Nenhum elemento novo na página.
+[2026-06-24 15:37:06] Botão 'Atualizar' clicado.
+[2026-06-24 15:37:06] 
+Coletando elementos da página...
+[2026-06-24 15:37:07] Total de elementos únicos encontrados: 14
+[2026-06-24 15:37:07] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:38:07] Nenhum elemento novo na página.
+[2026-06-24 15:38:08] Botão 'Atualizar' clicado.
+[2026-06-24 15:38:08] 
+Coletando elementos da página...
+[2026-06-24 15:38:09] Total de elementos únicos encontrados: 14
+[2026-06-24 15:38:09] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:39:09] Nenhum elemento novo na página.
+[2026-06-24 15:39:09] Botão 'Atualizar' clicado.
+[2026-06-24 15:39:09] 
+Coletando elementos da página...
+[2026-06-24 15:39:10] Total de elementos únicos encontrados: 14
+[2026-06-24 15:39:10] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:40:10] Nenhum elemento novo na página.
+[2026-06-24 15:40:10] Botão 'Atualizar' clicado.
+[2026-06-24 15:40:10] 
+Coletando elementos da página...
+[2026-06-24 15:40:12] Total de elementos únicos encontrados: 14
+[2026-06-24 15:40:12] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:41:12] Nenhum elemento novo na página.
+[2026-06-24 15:41:12] Botão 'Atualizar' clicado.
+[2026-06-24 15:41:12] 
+Coletando elementos da página...
+[2026-06-24 15:41:13] Total de elementos únicos encontrados: 14
+[2026-06-24 15:41:13] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:42:13] Nenhum elemento novo na página.
+[2026-06-24 15:42:13] Botão 'Atualizar' clicado.
+[2026-06-24 15:42:13] 
+Coletando elementos da página...
+[2026-06-24 15:42:14] Total de elementos únicos encontrados: 14
+[2026-06-24 15:42:14] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:43:14] Nenhum elemento novo na página.
+[2026-06-24 15:43:14] Botão 'Atualizar' clicado.
+[2026-06-24 15:43:14] 
+Coletando elementos da página...
+[2026-06-24 15:43:16] Total de elementos únicos encontrados: 14
+[2026-06-24 15:43:16] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:44:16] Nenhum elemento novo na página.
+[2026-06-24 15:44:16] Botão 'Atualizar' clicado.
+[2026-06-24 15:44:16] 
+Coletando elementos da página...
+[2026-06-24 15:44:17] Total de elementos únicos encontrados: 14
+[2026-06-24 15:44:17] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:45:17] Nenhum elemento novo na página.
+[2026-06-24 15:45:17] Botão 'Atualizar' clicado.
+[2026-06-24 15:45:17] 
+Coletando elementos da página...
+[2026-06-24 15:45:19] Total de elementos únicos encontrados: 14
+[2026-06-24 15:45:19] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:46:19] Nenhum elemento novo na página.
+[2026-06-24 15:46:19] Botão 'Atualizar' clicado.
+[2026-06-24 15:46:19] 
+Coletando elementos da página...
+[2026-06-24 15:46:20] Total de elementos únicos encontrados: 14
+[2026-06-24 15:46:20] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:47:20] Nenhum elemento novo na página.
+[2026-06-24 15:47:20] Botão 'Atualizar' clicado.
+[2026-06-24 15:47:20] 
+Coletando elementos da página...
+[2026-06-24 15:47:21] Total de elementos únicos encontrados: 14
+[2026-06-24 15:47:21] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:48:21] Nenhum elemento novo na página.
+[2026-06-24 15:48:21] Botão 'Atualizar' clicado.
+[2026-06-24 15:48:21] 
+Coletando elementos da página...
+[2026-06-24 15:48:23] Total de elementos únicos encontrados: 14
+[2026-06-24 15:48:23] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:49:23] Nenhum elemento novo na página.
+[2026-06-24 15:49:23] Botão 'Atualizar' clicado.
+[2026-06-24 15:49:23] 
+Coletando elementos da página...
+[2026-06-24 15:49:24] Total de elementos únicos encontrados: 14
+[2026-06-24 15:49:24] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:50:24] Nenhum elemento novo na página.
+[2026-06-24 15:50:25] Botão 'Atualizar' clicado.
+[2026-06-24 15:50:25] 
+Coletando elementos da página...
+[2026-06-24 15:50:27] Total de elementos únicos encontrados: 14
+[2026-06-24 15:50:27] 
+ALERTA: 1 ELEMENTO(S) NOVO(S) DETECTADO(S)!
+[2026-06-24 15:50:27] ================================================================================
+[2026-06-24 15:50:27] 
+Elemento Novo #1:
+[2026-06-24 15:50:27]    Tag: a
+[2026-06-24 15:50:27]    Classes: cSearchInvokeMobile
+[2026-06-24 15:50:27]    Texto: Pesquisar
+[2026-06-24 15:50:27]    Href: javascript:void(0);
+[2026-06-24 15:50:27]    Assinatura: tag:a|class:cSearchInvokeMobile|text:Pesquisar
+[2026-06-24 15:50:27] --------------------------------------------------------------------------------
+[2026-06-24 15:50:27] Histórico salvo: 28 elementos
+[2026-06-24 15:51:27] Elementos novos detectados, mas nenhum é o botão 'Assumir'.
+[2026-06-24 15:51:27] Botão 'Atualizar' clicado.
+[2026-06-24 15:51:27] 
+Coletando elementos da página...
+[2026-06-24 15:51:29] Total de elementos únicos encontrados: 14
+[2026-06-24 15:51:29] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:52:29] Nenhum elemento novo na página.
+[2026-06-24 15:52:29] Botão 'Atualizar' clicado.
+[2026-06-24 15:52:29] 
+Coletando elementos da página...
+[2026-06-24 15:52:30] Total de elementos únicos encontrados: 14
+[2026-06-24 15:52:30] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:53:31] Nenhum elemento novo na página.
+[2026-06-24 15:53:31] Botão 'Atualizar' clicado.
+[2026-06-24 15:53:31] 
+Coletando elementos da página...
+[2026-06-24 15:53:32] Total de elementos únicos encontrados: 14
+[2026-06-24 15:53:32] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:54:32] Nenhum elemento novo na página.
+[2026-06-24 15:54:32] Botão 'Atualizar' clicado.
+[2026-06-24 15:54:32] 
+Coletando elementos da página...
+[2026-06-24 15:54:34] Total de elementos únicos encontrados: 14
+[2026-06-24 15:54:34] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:55:34] Nenhum elemento novo na página.
+[2026-06-24 15:55:34] Botão 'Atualizar' clicado.
+[2026-06-24 15:55:34] 
+Coletando elementos da página...
+[2026-06-24 15:55:35] Total de elementos únicos encontrados: 14
+[2026-06-24 15:55:35] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:56:35] Nenhum elemento novo na página.
+[2026-06-24 15:56:35] Botão 'Atualizar' clicado.
+[2026-06-24 15:56:35] 
+Coletando elementos da página...
+[2026-06-24 15:56:37] Total de elementos únicos encontrados: 14
+[2026-06-24 15:56:37] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:57:37] Nenhum elemento novo na página.
+[2026-06-24 15:57:37] Botão 'Atualizar' clicado.
+[2026-06-24 15:57:37] 
+Coletando elementos da página...
+[2026-06-24 15:57:38] Total de elementos únicos encontrados: 14
+[2026-06-24 15:57:38] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:58:38] Nenhum elemento novo na página.
+[2026-06-24 15:58:38] Botão 'Atualizar' clicado.
+[2026-06-24 15:58:38] 
+Coletando elementos da página...
+[2026-06-24 15:58:40] Total de elementos únicos encontrados: 14
+[2026-06-24 15:58:40] 
+Nenhum elemento novo detectado.
+[2026-06-24 15:59:40] Nenhum elemento novo na página.
+[2026-06-24 15:59:47] Botão 'Atualizar' clicado.
+[2026-06-24 15:59:47] 
+Coletando elementos da página...
+[2026-06-24 15:59:50] Total de elementos únicos encontrados: 14
+[2026-06-24 15:59:50] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:00:50] Nenhum elemento novo na página.
+[2026-06-24 16:00:50] Botão 'Atualizar' clicado.
+[2026-06-24 16:00:50] 
+Coletando elementos da página...
+[2026-06-24 16:00:52] Total de elementos únicos encontrados: 14
+[2026-06-24 16:00:52] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:01:52] Nenhum elemento novo na página.
+[2026-06-24 16:01:52] Botão 'Atualizar' clicado.
+[2026-06-24 16:01:52] 
+Coletando elementos da página...
+[2026-06-24 16:01:53] Total de elementos únicos encontrados: 14
+[2026-06-24 16:01:53] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:02:53] Nenhum elemento novo na página.
+[2026-06-24 16:02:54] Botão 'Atualizar' clicado.
+[2026-06-24 16:02:54] 
+Coletando elementos da página...
+[2026-06-24 16:02:55] Total de elementos únicos encontrados: 14
+[2026-06-24 16:02:55] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:03:55] Nenhum elemento novo na página.
+[2026-06-24 16:03:55] Botão 'Atualizar' clicado.
+[2026-06-24 16:03:55] 
+Coletando elementos da página...
+[2026-06-24 16:03:57] Total de elementos únicos encontrados: 14
+[2026-06-24 16:03:57] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:05:00] Nenhum elemento novo na página.
+[2026-06-24 16:05:00] Botão 'Atualizar' clicado.
+[2026-06-24 16:05:00] 
+Coletando elementos da página...
+[2026-06-24 16:05:01] Total de elementos únicos encontrados: 14
+[2026-06-24 16:05:01] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:06:01] Nenhum elemento novo na página.
+[2026-06-24 16:06:01] Botão 'Atualizar' clicado.
+[2026-06-24 16:06:01] 
+Coletando elementos da página...
+[2026-06-24 16:06:03] Total de elementos únicos encontrados: 14
+[2026-06-24 16:06:03] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:07:03] Nenhum elemento novo na página.
+[2026-06-24 16:07:03] Botão 'Atualizar' clicado.
+[2026-06-24 16:07:03] 
+Coletando elementos da página...
+[2026-06-24 16:07:04] Total de elementos únicos encontrados: 14
+[2026-06-24 16:07:04] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:08:04] Nenhum elemento novo na página.
+[2026-06-24 16:08:04] Botão 'Atualizar' clicado.
+[2026-06-24 16:08:04] 
+Coletando elementos da página...
+[2026-06-24 16:08:06] Total de elementos únicos encontrados: 14
+[2026-06-24 16:08:06] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:09:06] Nenhum elemento novo na página.
+[2026-06-24 16:09:06] Botão 'Atualizar' clicado.
+[2026-06-24 16:09:06] 
+Coletando elementos da página...
+[2026-06-24 16:09:07] Total de elementos únicos encontrados: 14
+[2026-06-24 16:09:07] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:10:07] Nenhum elemento novo na página.
+[2026-06-24 16:10:07] Botão 'Atualizar' clicado.
+[2026-06-24 16:10:07] 
+Coletando elementos da página...
+[2026-06-24 16:10:09] Total de elementos únicos encontrados: 14
+[2026-06-24 16:10:09] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:11:09] Nenhum elemento novo na página.
+[2026-06-24 16:11:09] Botão 'Atualizar' clicado.
+[2026-06-24 16:11:09] 
+Coletando elementos da página...
+[2026-06-24 16:11:10] Total de elementos únicos encontrados: 14
+[2026-06-24 16:11:10] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:12:10] Nenhum elemento novo na página.
+[2026-06-24 16:12:11] Botão 'Atualizar' clicado.
+[2026-06-24 16:12:11] 
+Coletando elementos da página...
+[2026-06-24 16:12:12] Total de elementos únicos encontrados: 14
+[2026-06-24 16:12:12] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:13:12] Nenhum elemento novo na página.
+[2026-06-24 16:13:12] Botão 'Atualizar' clicado.
+[2026-06-24 16:13:12] 
+Coletando elementos da página...
+[2026-06-24 16:13:14] Total de elementos únicos encontrados: 14
+[2026-06-24 16:13:14] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:14:14] Nenhum elemento novo na página.
+[2026-06-24 16:14:14] Botão 'Atualizar' clicado.
+[2026-06-24 16:14:14] 
+Coletando elementos da página...
+[2026-06-24 16:14:16] Total de elementos únicos encontrados: 14
+[2026-06-24 16:14:16] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:15:16] Nenhum elemento novo na página.
+[2026-06-24 16:15:16] Botão 'Atualizar' clicado.
+[2026-06-24 16:15:16] 
+Coletando elementos da página...
+[2026-06-24 16:15:17] Total de elementos únicos encontrados: 14
+[2026-06-24 16:15:17] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:16:17] Nenhum elemento novo na página.
+[2026-06-24 16:16:18] Botão 'Atualizar' clicado.
+[2026-06-24 16:16:18] 
+Coletando elementos da página...
+[2026-06-24 16:16:20] Total de elementos únicos encontrados: 14
+[2026-06-24 16:16:20] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:17:20] Nenhum elemento novo na página.
+[2026-06-24 16:17:22] Botão 'Atualizar' clicado.
+[2026-06-24 16:17:22] 
+Coletando elementos da página...
+[2026-06-24 16:17:24] Total de elementos únicos encontrados: 14
+[2026-06-24 16:17:24] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:18:24] Nenhum elemento novo na página.
+[2026-06-24 16:18:24] Botão 'Atualizar' clicado.
+[2026-06-24 16:18:24] 
+Coletando elementos da página...
+[2026-06-24 16:18:26] Total de elementos únicos encontrados: 14
+[2026-06-24 16:18:26] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:19:26] Nenhum elemento novo na página.
+[2026-06-24 16:19:26] Botão 'Atualizar' clicado.
+[2026-06-24 16:19:26] 
+Coletando elementos da página...
+[2026-06-24 16:19:27] Total de elementos únicos encontrados: 14
+[2026-06-24 16:19:27] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:20:27] Nenhum elemento novo na página.
+[2026-06-24 16:20:27] Botão 'Atualizar' clicado.
+[2026-06-24 16:20:27] 
+Coletando elementos da página...
+[2026-06-24 16:20:29] Total de elementos únicos encontrados: 14
+[2026-06-24 16:20:29] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:21:29] Nenhum elemento novo na página.
+[2026-06-24 16:21:29] Botão 'Atualizar' clicado.
+[2026-06-24 16:21:29] 
+Coletando elementos da página...
+[2026-06-24 16:21:30] Total de elementos únicos encontrados: 14
+[2026-06-24 16:21:30] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:22:30] Nenhum elemento novo na página.
+[2026-06-24 16:22:30] Botão 'Atualizar' clicado.
+[2026-06-24 16:22:30] 
+Coletando elementos da página...
+[2026-06-24 16:22:32] Total de elementos únicos encontrados: 14
+[2026-06-24 16:22:32] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:23:32] Nenhum elemento novo na página.
+[2026-06-24 16:23:32] Botão 'Atualizar' clicado.
+[2026-06-24 16:23:32] 
+Coletando elementos da página...
+[2026-06-24 16:23:33] Total de elementos únicos encontrados: 14
+[2026-06-24 16:23:33] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:24:33] Nenhum elemento novo na página.
+[2026-06-24 16:24:33] Botão 'Atualizar' clicado.
+[2026-06-24 16:24:33] 
+Coletando elementos da página...
+[2026-06-24 16:24:35] Total de elementos únicos encontrados: 14
+[2026-06-24 16:24:35] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:25:35] Nenhum elemento novo na página.
+[2026-06-24 16:25:35] Botão 'Atualizar' clicado.
+[2026-06-24 16:25:35] 
+Coletando elementos da página...
+[2026-06-24 16:25:37] Total de elementos únicos encontrados: 14
+[2026-06-24 16:25:37] 
+Nenhum elemento novo detectado.
+[2026-06-24 16:26:37] Nenhum elemento novo na página.
+[2026-06-24 16:26:37] Botão 'Atualizar' clicado.
+[2026-06-24 16:26:37] 
+Coletando elementos da página...
+[2026-06-24 16:26:38] Total de elementos únicos encontrados: 14
+[2026-06-24 16:26:38] 
+Nenhum elemento novo detectado.
+[2026-07-13 20:07:02] Histórico carregado: 28 elementos conhecidos
+[2026-07-13 20:07:02] Iniciando script
+[2026-07-13 20:07:21] Login realizado com sucesso.
+[2026-07-13 20:07:29] Botão 'Atualizar' clicado.
+[2026-07-13 20:08:29] Falha usando seletor //label[contains(.,'Assumir')]: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x4c17b3+10673]
+	chromedriver!GetHandleVerifier [0x4c17f4+106b4]
+	chromedriver!(No symbol) [0x2a90a0]
+	chromedriver!(No symbol) [0x2f313b]
+	chromedriver!(No symbol) [0x2f335b]
+	chromedriver!(No symbol) [0x335962]
+	chromedriver!(No symbol) [0x315704]
+	chromedriver!(No symbol) [0x3331fd]
+	chromedriver!(No symbol) [0x315456]
+	chromedriver!(No symbol) [0x2e8629]
+	chromedriver!(No symbol) [0x2e93f4]
+	chromedriver!GetHandleVerifier [0x737c06+286ac6]
+	chromedriver!GetHandleVerifier [0x73328b+28214b]
+	chromedriver!GetHandleVerifier [0x75384b+2a270b]
+	chromedriver!GetHandleVerifier [0x4db7c6+2a686]
+	chromedriver!GetHandleVerifier [0x4e24ed+313ad]
+	chromedriver!GetHandleVerifier [0x4ca158+19018]
+	chromedriver!GetHandleVerifier [0x4ca305+191c5]
+	chromedriver!GetHandleVerifier [0x4b323f+20ff]
+	KERNEL32!BaseThreadInitThunk [0x7597fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x774682ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7746827e+ee]
+
+[2026-07-13 20:08:59] Falha usando seletor //button[label[contains(.,'Assumir')]]: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x4c17b3+10673]
+	chromedriver!GetHandleVerifier [0x4c17f4+106b4]
+	chromedriver!(No symbol) [0x2a90a0]
+	chromedriver!(No symbol) [0x2f313b]
+	chromedriver!(No symbol) [0x2f335b]
+	chromedriver!(No symbol) [0x335962]
+	chromedriver!(No symbol) [0x315704]
+	chromedriver!(No symbol) [0x3331fd]
+	chromedriver!(No symbol) [0x315456]
+	chromedriver!(No symbol) [0x2e8629]
+	chromedriver!(No symbol) [0x2e93f4]
+	chromedriver!GetHandleVerifier [0x737c06+286ac6]
+	chromedriver!GetHandleVerifier [0x73328b+28214b]
+	chromedriver!GetHandleVerifier [0x75384b+2a270b]
+	chromedriver!GetHandleVerifier [0x4db7c6+2a686]
+	chromedriver!GetHandleVerifier [0x4e24ed+313ad]
+	chromedriver!GetHandleVerifier [0x4ca158+19018]
+	chromedriver!GetHandleVerifier [0x4ca305+191c5]
+	chromedriver!GetHandleVerifier [0x4b323f+20ff]
+	KERNEL32!BaseThreadInitThunk [0x7597fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x774682ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7746827e+ee]
+
+[2026-07-13 20:09:30] Falha usando seletor //button[contains(.,'Assumir')]: Message: 
+
+[2026-07-13 20:10:00] Falha usando seletor //*[contains(text(),'Assumir')]: Message: 
+
+[2026-07-13 20:10:00] Nenhum seletor encontrou o botão Assumir.
+[2026-07-13 20:10:00] Assumir não encontrado. Tentando atualizar novamente...
+[2026-07-13 20:44:17] Histórico carregado: 28 elementos conhecidos
+[2026-07-13 20:44:17] Iniciando script
+[2026-07-13 20:44:27] Login realizado com sucesso.
+[2026-07-13 20:44:37] Botão 'Atualizar' clicado.
+[2026-07-13 20:45:58] Botão Assumir não disponível.
+[2026-07-13 20:45:58] Botão Assumir não disponível.
+[2026-07-13 20:46:03] Botão 'Atualizar' clicado.
+[2026-07-13 21:07:17] Histórico carregado: 28 elementos conhecidos
+[2026-07-13 21:07:17] Iniciando script
+[2026-07-13 21:07:27] Login realizado com sucesso.
+[2026-07-13 21:07:37] Botão 'Atualizar' clicado.
+[2026-07-13 21:39:32] Histórico carregado: 28 elementos conhecidos
+[2026-07-13 21:39:32] Iniciando script
+[2026-07-13 21:39:43] Login realizado com sucesso.
+[2026-07-13 21:39:51] Botão 'Atualizar' clicado.
+[2026-07-13 21:40:51] Botão Assumir não disponível.
+[2026-07-13 21:40:51] Botão Assumir não disponível.
+[2026-07-13 21:40:56] Erro Geral: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x13217b3+10673]
+	chromedriver!GetHandleVerifier [0x13217f4+106b4]
+	chromedriver!(No symbol) [0x1108ede]
+	chromedriver!(No symbol) [0x11478b5]
+	chromedriver!(No symbol) [0x1175576]
+	chromedriver!(No symbol) [0x1170702]
+	chromedriver!(No symbol) [0x11700e1]
+	chromedriver!(No symbol) [0x10dc731]
+	chromedriver!(No symbol) [0x10dccd3]
+	chromedriver!(No symbol) [0x10dd18d]
+	chromedriver!GetHandleVerifier [0x1597c06+286ac6]
+	chromedriver!GetHandleVerifier [0x159328b+28214b]
+	chromedriver!GetHandleVerifier [0x15b384b+2a270b]
+	chromedriver!GetHandleVerifier [0x133b7c6+2a686]
+	chromedriver!GetHandleVerifier [0x13424ed+313ad]
+	chromedriver!(No symbol) [0x10dc3e0]
+	chromedriver!(No symbol) [0x10dba92]
+	chromedriver!GetHandleVerifier [0x16f407f+3e2f3f]
+	KERNEL32!BaseThreadInitThunk [0x7597fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x774682ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7746827e+ee]
+
+[2026-07-13 22:17:55] Histórico carregado: 28 elementos conhecidos
+[2026-07-13 22:17:55] Iniciando script
+[2026-07-13 22:18:06] Login realizado com sucesso.
+[2026-07-13 22:18:14] Botão 'Atualizar' clicado.
+[2026-07-13 22:19:22] Botão Assumir não disponível.
+[2026-07-13 22:19:22] Nenhum botão Assumir disponível.
+[2026-07-13 22:19:23] Botão 'Atualizar' clicado.
+[2026-07-14 15:19:12] Histórico carregado: 28 elementos conhecidos
+[2026-07-14 15:19:12] Iniciando script
+[2026-07-14 15:20:48] Login realizado com sucesso.
+[2026-07-14 15:21:11] Botão 'Atualizar' clicado.
+[2026-07-14 15:22:20] Botão Assumir não disponível.
+[2026-07-14 15:22:20] Nenhum botão Assumir disponível.
+[2026-07-14 15:22:20] Botão 'Atualizar' clicado.
+[2026-07-14 15:23:50] Botão Assumir não disponível.
+[2026-07-14 15:23:50] Nenhum botão Assumir disponível.
+[2026-07-14 15:23:50] Botão 'Atualizar' clicado.
+[2026-07-14 15:24:59] Botão Assumir não disponível.
+[2026-07-14 15:24:59] Nenhum botão Assumir disponível.
+[2026-07-14 15:24:59] Botão 'Atualizar' clicado.
+[2026-07-14 15:25:15] Histórico carregado: 28 elementos conhecidos
+[2026-07-14 15:25:15] Iniciando script
+[2026-07-14 15:25:27] Login realizado com sucesso.
+[2026-07-14 15:25:39] Botão 'Atualizar' clicado.
+[2026-07-14 15:26:47] Botão Assumir não disponível.
+[2026-07-14 15:26:47] Nenhum botão Assumir disponível.
+[2026-07-14 15:26:48] Botão 'Atualizar' clicado.
+[2026-07-14 15:27:56] Botão Assumir não disponível.
+[2026-07-14 15:27:56] Nenhum botão Assumir disponível.
+[2026-07-14 15:27:56] Botão 'Atualizar' clicado.
+[2026-07-14 15:29:05] Botão Assumir não disponível.
+[2026-07-14 15:29:05] Nenhum botão Assumir disponível.
+[2026-07-14 15:29:05] Botão 'Atualizar' clicado.
+[2026-07-14 15:30:13] Botão Assumir não disponível.
+[2026-07-14 15:30:13] Nenhum botão Assumir disponível.
+[2026-07-14 15:30:13] Botão 'Atualizar' clicado.
+[2026-07-14 15:31:22] Botão Assumir não disponível.
+[2026-07-14 15:31:22] Nenhum botão Assumir disponível.
+[2026-07-14 15:31:22] Botão 'Atualizar' clicado.
+[2026-07-14 15:32:31] Botão Assumir não disponível.
+[2026-07-14 15:32:31] Nenhum botão Assumir disponível.
+[2026-07-14 15:32:31] Botão 'Atualizar' clicado.
+[2026-07-14 15:33:39] Botão Assumir não disponível.
+[2026-07-14 15:33:39] Nenhum botão Assumir disponível.
+[2026-07-14 15:33:39] Botão 'Atualizar' clicado.
+[2026-07-14 15:34:48] Botão Assumir não disponível.
+[2026-07-14 15:34:48] Nenhum botão Assumir disponível.
+[2026-07-14 15:34:48] Botão 'Atualizar' clicado.
+[2026-07-14 15:35:56] Botão Assumir não disponível.
+[2026-07-14 15:35:56] Nenhum botão Assumir disponível.
+[2026-07-14 15:35:56] Botão 'Atualizar' clicado.
+[2026-07-14 15:37:05] Botão Assumir não disponível.
+[2026-07-14 15:37:05] Nenhum botão Assumir disponível.
+[2026-07-14 15:37:05] Botão 'Atualizar' clicado.
+[2026-07-14 15:38:14] Botão Assumir não disponível.
+[2026-07-14 15:38:14] Nenhum botão Assumir disponível.
+[2026-07-14 15:38:14] Botão 'Atualizar' clicado.
+[2026-07-14 15:39:22] Botão Assumir não disponível.
+[2026-07-14 15:39:22] Nenhum botão Assumir disponível.
+[2026-07-14 15:39:22] Botão 'Atualizar' clicado.
+[2026-07-14 15:40:31] Botão Assumir não disponível.
+[2026-07-14 15:40:31] Nenhum botão Assumir disponível.
+[2026-07-14 15:40:31] Botão 'Atualizar' clicado.
+[2026-07-14 15:41:40] Botão Assumir não disponível.
+[2026-07-14 15:41:40] Nenhum botão Assumir disponível.
+[2026-07-14 15:41:40] Botão 'Atualizar' clicado.
+[2026-07-14 15:42:48] Botão Assumir não disponível.
+[2026-07-14 15:42:48] Nenhum botão Assumir disponível.
+[2026-07-14 15:42:48] Botão 'Atualizar' clicado.
+[2026-07-14 15:43:57] Botão Assumir não disponível.
+[2026-07-14 15:43:57] Nenhum botão Assumir disponível.
+[2026-07-14 15:43:57] Botão 'Atualizar' clicado.
+[2026-07-14 15:45:05] Botão Assumir não disponível.
+[2026-07-14 15:45:05] Nenhum botão Assumir disponível.
+[2026-07-14 15:45:05] Botão 'Atualizar' clicado.
+[2026-07-14 15:46:14] Botão Assumir não disponível.
+[2026-07-14 15:46:14] Nenhum botão Assumir disponível.
+[2026-07-14 15:46:14] Botão 'Atualizar' clicado.
+[2026-07-14 15:47:22] Botão Assumir não disponível.
+[2026-07-14 15:47:22] Nenhum botão Assumir disponível.
+[2026-07-14 15:47:22] Botão 'Atualizar' clicado.
+[2026-07-14 15:48:31] Botão Assumir não disponível.
+[2026-07-14 15:48:31] Nenhum botão Assumir disponível.
+[2026-07-14 15:48:31] Botão 'Atualizar' clicado.
+[2026-07-14 15:49:40] Botão Assumir não disponível.
+[2026-07-14 15:49:40] Nenhum botão Assumir disponível.
+[2026-07-14 15:49:40] Botão 'Atualizar' clicado.
+[2026-07-14 15:50:48] Botão Assumir não disponível.
+[2026-07-14 15:50:48] Nenhum botão Assumir disponível.
+[2026-07-14 15:50:48] Botão 'Atualizar' clicado.
+[2026-07-14 15:51:57] Botão Assumir não disponível.
+[2026-07-14 15:51:57] Nenhum botão Assumir disponível.
+[2026-07-14 15:51:57] Botão 'Atualizar' clicado.
+[2026-07-14 15:53:05] Botão Assumir não disponível.
+[2026-07-14 15:53:05] Nenhum botão Assumir disponível.
+[2026-07-14 15:53:05] Botão 'Atualizar' clicado.
+[2026-07-14 15:54:14] Botão Assumir não disponível.
+[2026-07-14 15:54:14] Nenhum botão Assumir disponível.
+[2026-07-14 15:54:14] Botão 'Atualizar' clicado.
+[2026-07-14 15:55:22] Botão Assumir não disponível.
+[2026-07-14 15:55:22] Nenhum botão Assumir disponível.
+[2026-07-14 15:55:23] Botão 'Atualizar' clicado.
+[2026-07-14 15:56:31] Botão Assumir não disponível.
+[2026-07-14 15:56:31] Nenhum botão Assumir disponível.
+[2026-07-14 15:56:31] Botão 'Atualizar' clicado.
+[2026-07-14 15:57:40] Botão Assumir não disponível.
+[2026-07-14 15:57:40] Nenhum botão Assumir disponível.
+[2026-07-14 15:57:40] Botão 'Atualizar' clicado.
+[2026-07-14 15:58:48] Botão Assumir não disponível.
+[2026-07-14 15:58:48] Nenhum botão Assumir disponível.
+[2026-07-14 15:58:48] Botão 'Atualizar' clicado.
+[2026-07-14 15:59:57] Botão Assumir não disponível.
+[2026-07-14 15:59:57] Nenhum botão Assumir disponível.
+[2026-07-14 15:59:57] Botão 'Atualizar' clicado.
+[2026-07-14 16:01:06] Botão Assumir não disponível.
+[2026-07-14 16:01:06] Nenhum botão Assumir disponível.
+[2026-07-14 16:01:06] Botão 'Atualizar' clicado.
+[2026-07-14 16:02:14] Botão Assumir não disponível.
+[2026-07-14 16:02:14] Nenhum botão Assumir disponível.
+[2026-07-14 16:02:14] Botão 'Atualizar' clicado.
+[2026-07-14 16:03:23] Botão Assumir não disponível.
+[2026-07-14 16:03:23] Nenhum botão Assumir disponível.
+[2026-07-14 16:03:23] Botão 'Atualizar' clicado.
+[2026-07-14 16:04:31] Botão Assumir não disponível.
+[2026-07-14 16:04:31] Nenhum botão Assumir disponível.
+[2026-07-14 16:04:32] Botão 'Atualizar' clicado.
+[2026-07-14 16:05:40] Botão Assumir não disponível.
+[2026-07-14 16:05:40] Nenhum botão Assumir disponível.
+[2026-07-14 16:05:40] Botão 'Atualizar' clicado.
+[2026-07-14 16:06:51] Botão Assumir não disponível.
+[2026-07-14 16:06:51] Nenhum botão Assumir disponível.
+[2026-07-14 16:06:51] Botão 'Atualizar' clicado.
+[2026-07-14 16:07:59] Botão Assumir não disponível.
+[2026-07-14 16:07:59] Nenhum botão Assumir disponível.
+[2026-07-14 16:07:59] Botão 'Atualizar' clicado.
+[2026-07-14 16:09:08] Botão Assumir não disponível.
+[2026-07-14 16:09:08] Nenhum botão Assumir disponível.
+[2026-07-14 16:09:09] Botão 'Atualizar' clicado.
+[2026-07-14 16:10:17] Botão Assumir não disponível.
+[2026-07-14 16:10:17] Nenhum botão Assumir disponível.
+[2026-07-14 16:10:17] Botão 'Atualizar' clicado.
+[2026-07-14 16:11:26] Botão Assumir não disponível.
+[2026-07-14 16:11:26] Nenhum botão Assumir disponível.
+[2026-07-14 16:11:26] Botão 'Atualizar' clicado.
+[2026-07-14 16:12:34] Botão Assumir não disponível.
+[2026-07-14 16:12:34] Nenhum botão Assumir disponível.
+[2026-07-14 16:12:35] Botão 'Atualizar' clicado.
+[2026-07-14 16:13:43] Botão Assumir não disponível.
+[2026-07-14 16:13:43] Nenhum botão Assumir disponível.
+[2026-07-14 16:13:43] Botão 'Atualizar' clicado.
+[2026-07-14 16:14:52] Botão Assumir não disponível.
+[2026-07-14 16:14:52] Nenhum botão Assumir disponível.
+[2026-07-14 16:14:52] Botão 'Atualizar' clicado.
+[2026-07-14 16:16:01] Botão Assumir não disponível.
+[2026-07-14 16:16:01] Nenhum botão Assumir disponível.
+[2026-07-14 16:16:01] Botão 'Atualizar' clicado.
+[2026-07-14 16:17:09] Botão Assumir não disponível.
+[2026-07-14 16:17:09] Nenhum botão Assumir disponível.
+[2026-07-14 16:17:10] Botão 'Atualizar' clicado.
+[2026-07-14 16:18:18] Botão Assumir não disponível.
+[2026-07-14 16:18:18] Nenhum botão Assumir disponível.
+[2026-07-14 16:18:18] Botão 'Atualizar' clicado.
+[2026-07-14 16:19:27] Botão Assumir não disponível.
+[2026-07-14 16:19:27] Nenhum botão Assumir disponível.
+[2026-07-14 16:19:27] Botão 'Atualizar' clicado.
+[2026-07-14 16:20:35] Botão Assumir não disponível.
+[2026-07-14 16:20:35] Nenhum botão Assumir disponível.
+[2026-07-14 16:20:35] Botão 'Atualizar' clicado.
+[2026-07-14 16:21:44] Botão Assumir não disponível.
+[2026-07-14 16:21:44] Nenhum botão Assumir disponível.
+[2026-07-14 16:21:44] Botão 'Atualizar' clicado.
+[2026-07-14 16:22:52] Botão Assumir não disponível.
+[2026-07-14 16:22:52] Nenhum botão Assumir disponível.
+[2026-07-14 16:22:53] Botão 'Atualizar' clicado.
+[2026-07-14 16:24:01] Botão Assumir não disponível.
+[2026-07-14 16:24:01] Nenhum botão Assumir disponível.
+[2026-07-14 16:24:01] Botão 'Atualizar' clicado.
+[2026-07-14 16:25:10] Botão Assumir não disponível.
+[2026-07-14 16:25:10] Nenhum botão Assumir disponível.
+[2026-07-14 16:25:10] Botão 'Atualizar' clicado.
+[2026-07-14 16:26:18] Botão Assumir não disponível.
+[2026-07-14 16:26:18] Nenhum botão Assumir disponível.
+[2026-07-14 16:26:18] Botão 'Atualizar' clicado.
+[2026-07-14 16:27:27] Botão Assumir não disponível.
+[2026-07-14 16:27:27] Nenhum botão Assumir disponível.
+[2026-07-14 16:27:27] Botão 'Atualizar' clicado.
+[2026-07-14 16:28:35] Botão Assumir não disponível.
+[2026-07-14 16:28:37] Nenhum botão Assumir disponível.
+[2026-07-14 16:28:37] Botão 'Atualizar' clicado.
+[2026-07-14 16:29:46] Botão Assumir não disponível.
+[2026-07-14 16:29:46] Nenhum botão Assumir disponível.
+[2026-07-14 16:29:46] Botão 'Atualizar' clicado.
+[2026-07-14 16:30:54] Botão Assumir não disponível.
+[2026-07-14 16:30:54] Nenhum botão Assumir disponível.
+[2026-07-14 16:30:54] Botão 'Atualizar' clicado.
+[2026-07-14 16:32:03] Botão Assumir não disponível.
+[2026-07-14 16:32:03] Nenhum botão Assumir disponível.
+[2026-07-14 16:32:03] Botão 'Atualizar' clicado.
+[2026-07-14 16:33:11] Botão Assumir não disponível.
+[2026-07-14 16:33:11] Nenhum botão Assumir disponível.
+[2026-07-14 16:33:11] Botão 'Atualizar' clicado.
+[2026-07-14 16:34:20] Botão Assumir não disponível.
+[2026-07-14 16:34:20] Nenhum botão Assumir disponível.
+[2026-07-14 16:34:20] Botão 'Atualizar' clicado.
+[2026-07-14 16:35:29] Botão Assumir não disponível.
+[2026-07-14 16:35:29] Nenhum botão Assumir disponível.
+[2026-07-14 16:35:29] Botão 'Atualizar' clicado.
+[2026-07-14 16:36:37] Botão Assumir não disponível.
+[2026-07-14 16:36:37] Nenhum botão Assumir disponível.
+[2026-07-14 16:36:37] Botão 'Atualizar' clicado.
+[2026-07-14 16:37:46] Botão Assumir não disponível.
+[2026-07-14 16:37:46] Nenhum botão Assumir disponível.
+[2026-07-14 16:37:46] Botão 'Atualizar' clicado.
+[2026-07-14 16:38:54] Botão Assumir não disponível.
+[2026-07-14 16:38:54] Nenhum botão Assumir disponível.
+[2026-07-14 16:38:55] Botão 'Atualizar' clicado.
+[2026-07-14 16:40:04] Botão Assumir não disponível.
+[2026-07-14 16:40:04] Nenhum botão Assumir disponível.
+[2026-07-14 16:40:05] Botão 'Atualizar' clicado.
+[2026-07-14 16:41:13] Botão Assumir não disponível.
+[2026-07-14 16:41:13] Nenhum botão Assumir disponível.
+[2026-07-14 16:41:13] Botão 'Atualizar' clicado.
+[2026-07-14 16:42:22] Botão Assumir não disponível.
+[2026-07-14 16:42:22] Nenhum botão Assumir disponível.
+[2026-07-14 16:42:22] Botão 'Atualizar' clicado.
+[2026-07-14 16:43:30] Botão Assumir não disponível.
+[2026-07-14 16:43:30] Nenhum botão Assumir disponível.
+[2026-07-14 16:43:30] Botão 'Atualizar' clicado.
+[2026-07-14 16:44:39] Botão Assumir não disponível.
+[2026-07-14 16:44:39] Nenhum botão Assumir disponível.
+[2026-07-14 16:44:39] Botão 'Atualizar' clicado.
+[2026-07-14 16:45:48] Botão Assumir não disponível.
+[2026-07-14 16:45:48] Nenhum botão Assumir disponível.
+[2026-07-14 16:45:48] Botão 'Atualizar' clicado.
+[2026-07-14 16:46:56] Botão Assumir não disponível.
+[2026-07-14 16:46:56] Nenhum botão Assumir disponível.
+[2026-07-14 16:46:56] Botão 'Atualizar' clicado.
+[2026-07-14 16:48:05] Botão Assumir não disponível.
+[2026-07-14 16:48:05] Nenhum botão Assumir disponível.
+[2026-07-14 16:48:05] Botão 'Atualizar' clicado.
+[2026-07-14 16:49:13] Botão Assumir não disponível.
+[2026-07-14 16:49:13] Nenhum botão Assumir disponível.
+[2026-07-14 16:49:13] Botão 'Atualizar' clicado.
+[2026-07-14 16:50:22] Botão Assumir não disponível.
+[2026-07-14 16:50:22] Nenhum botão Assumir disponível.
+[2026-07-14 16:50:22] Botão 'Atualizar' clicado.
+[2026-07-14 16:51:31] Botão Assumir não disponível.
+[2026-07-14 16:51:31] Nenhum botão Assumir disponível.
+[2026-07-14 16:51:31] Botão 'Atualizar' clicado.
+[2026-07-14 16:52:39] Botão Assumir não disponível.
+[2026-07-14 16:52:39] Nenhum botão Assumir disponível.
+[2026-07-14 16:52:39] Botão 'Atualizar' clicado.
+[2026-07-14 16:53:48] Botão Assumir não disponível.
+[2026-07-14 16:53:48] Nenhum botão Assumir disponível.
+[2026-07-14 16:53:48] Botão 'Atualizar' clicado.
+[2026-07-14 16:54:57] Botão Assumir não disponível.
+[2026-07-14 16:54:57] Nenhum botão Assumir disponível.
+[2026-07-14 16:54:57] Botão 'Atualizar' clicado.
+[2026-07-14 16:56:05] Botão Assumir não disponível.
+[2026-07-14 16:56:05] Nenhum botão Assumir disponível.
+[2026-07-14 16:56:05] Botão 'Atualizar' clicado.
+[2026-07-14 16:57:14] Botão Assumir não disponível.
+[2026-07-14 16:57:14] Nenhum botão Assumir disponível.
+[2026-07-14 16:57:14] Botão 'Atualizar' clicado.
+[2026-07-14 16:58:22] Botão Assumir não disponível.
+[2026-07-14 16:58:22] Nenhum botão Assumir disponível.
+[2026-07-14 16:58:22] Botão 'Atualizar' clicado.
+[2026-07-14 16:59:31] Botão Assumir não disponível.
+[2026-07-14 16:59:31] Nenhum botão Assumir disponível.
+[2026-07-14 16:59:31] Botão 'Atualizar' clicado.
+[2026-07-14 17:00:40] Botão Assumir não disponível.
+[2026-07-14 17:00:40] Nenhum botão Assumir disponível.
+[2026-07-14 17:00:40] Botão 'Atualizar' clicado.
+[2026-07-14 17:01:48] Botão Assumir não disponível.
+[2026-07-14 17:01:48] Nenhum botão Assumir disponível.
+[2026-07-14 17:01:48] Botão 'Atualizar' clicado.
+[2026-07-14 17:02:57] Botão Assumir não disponível.
+[2026-07-14 17:02:57] Nenhum botão Assumir disponível.
+[2026-07-14 17:02:57] Botão 'Atualizar' clicado.
+[2026-07-14 17:04:05] Botão Assumir não disponível.
+[2026-07-14 17:04:05] Nenhum botão Assumir disponível.
+[2026-07-14 17:04:05] Botão 'Atualizar' clicado.
+[2026-07-14 17:05:14] Botão Assumir não disponível.
+[2026-07-14 17:05:14] Nenhum botão Assumir disponível.
+[2026-07-14 17:05:14] Botão 'Atualizar' clicado.
+[2026-07-14 17:06:23] Botão Assumir não disponível.
+[2026-07-14 17:06:23] Nenhum botão Assumir disponível.
+[2026-07-14 17:06:23] Botão 'Atualizar' clicado.
+[2026-07-14 17:07:31] Botão Assumir não disponível.
+[2026-07-14 17:07:31] Nenhum botão Assumir disponível.
+[2026-07-14 17:07:31] Botão 'Atualizar' clicado.
+[2026-07-14 17:08:40] Botão Assumir não disponível.
+[2026-07-14 17:08:40] Nenhum botão Assumir disponível.
+[2026-07-14 17:08:40] Botão 'Atualizar' clicado.
+[2026-07-14 17:09:48] Botão Assumir não disponível.
+[2026-07-14 17:09:48] Nenhum botão Assumir disponível.
+[2026-07-14 17:09:49] Botão 'Atualizar' clicado.
+[2026-07-14 17:10:57] Botão Assumir não disponível.
+[2026-07-14 17:10:57] Nenhum botão Assumir disponível.
+[2026-07-14 17:10:57] Botão 'Atualizar' clicado.
+[2026-07-14 17:12:06] Botão Assumir não disponível.
+[2026-07-14 17:12:06] Nenhum botão Assumir disponível.
+[2026-07-14 17:12:06] Botão 'Atualizar' clicado.
+[2026-07-14 17:13:14] Botão Assumir não disponível.
+[2026-07-14 17:13:14] Nenhum botão Assumir disponível.
+[2026-07-14 17:13:14] Botão 'Atualizar' clicado.
+[2026-07-14 17:14:23] Botão Assumir não disponível.
+[2026-07-14 17:14:23] Nenhum botão Assumir disponível.
+[2026-07-14 17:14:23] Botão 'Atualizar' clicado.
+[2026-07-14 17:15:31] Botão Assumir não disponível.
+[2026-07-14 17:15:31] Nenhum botão Assumir disponível.
+[2026-07-14 17:15:31] Botão 'Atualizar' clicado.
+[2026-07-14 17:16:40] Botão Assumir não disponível.
+[2026-07-14 17:16:40] Nenhum botão Assumir disponível.
+[2026-07-14 17:16:40] Botão 'Atualizar' clicado.
+[2026-07-14 17:17:48] Botão Assumir não disponível.
+[2026-07-14 17:17:48] Nenhum botão Assumir disponível.
+[2026-07-14 17:17:48] Botão 'Atualizar' clicado.
+[2026-07-14 17:18:57] Botão Assumir não disponível.
+[2026-07-14 17:18:57] Nenhum botão Assumir disponível.
+[2026-07-14 17:18:57] Botão 'Atualizar' clicado.
+[2026-07-14 17:20:06] Botão Assumir não disponível.
+[2026-07-14 17:20:06] Nenhum botão Assumir disponível.
+[2026-07-14 17:20:06] Botão 'Atualizar' clicado.
+[2026-07-14 17:21:14] Botão Assumir não disponível.
+[2026-07-14 17:21:14] Nenhum botão Assumir disponível.
+[2026-07-14 17:21:14] Botão 'Atualizar' clicado.
+[2026-07-14 17:22:23] Botão Assumir não disponível.
+[2026-07-14 17:22:23] Nenhum botão Assumir disponível.
+[2026-07-14 17:22:23] Botão 'Atualizar' clicado.
+[2026-07-14 17:23:32] Botão Assumir não disponível.
+[2026-07-14 17:23:32] Nenhum botão Assumir disponível.
+[2026-07-14 17:23:32] Botão 'Atualizar' clicado.
+[2026-07-14 17:24:41] Botão Assumir não disponível.
+[2026-07-14 17:24:41] Nenhum botão Assumir disponível.
+[2026-07-14 17:24:41] Botão 'Atualizar' clicado.
+[2026-07-14 17:25:49] Botão Assumir não disponível.
+[2026-07-14 17:25:49] Nenhum botão Assumir disponível.
+[2026-07-14 17:25:49] Botão 'Atualizar' clicado.
+[2026-07-14 17:26:58] Botão Assumir não disponível.
+[2026-07-14 17:26:58] Nenhum botão Assumir disponível.
+[2026-07-14 17:26:58] Botão 'Atualizar' clicado.
+[2026-07-14 17:28:07] Botão Assumir não disponível.
+[2026-07-14 17:28:07] Nenhum botão Assumir disponível.
+[2026-07-14 17:28:07] Botão 'Atualizar' clicado.
+[2026-07-14 17:29:15] Botão Assumir não disponível.
+[2026-07-14 17:29:15] Nenhum botão Assumir disponível.
+[2026-07-14 17:29:15] Botão 'Atualizar' clicado.
+[2026-07-14 17:30:24] Botão Assumir não disponível.
+[2026-07-14 17:30:24] Nenhum botão Assumir disponível.
+[2026-07-14 17:30:24] Botão 'Atualizar' clicado.
+[2026-07-14 17:31:28] Botão Assumir encontrado usando: //button[label[contains(.,'Assumir')]]
+[2026-07-14 17:31:28] Botão Assumir encontrado.
+[2026-07-14 17:31:28] Botão Assumir clicado.
+[2026-07-14 17:31:31] Aguardando modal...
+[2026-07-14 17:31:41] Não foi possível fechar o modal: Message: 
+
+[2026-07-14 17:31:51] Botão Assumir não disponível.
+[2026-07-14 17:31:51] Nenhum botão Assumir disponível.
+[2026-07-14 17:31:53] Erro Geral: Message: element click intercepted: Element <button lwc-485vfn4rmof="" class="slds-button slds-button_icon slds-button_icon-border-filled" title="Atualizar" type="button" part="button button-icon">...</button> is not clickable at point (984, 129). Other element would receive the click: <p class="slds-text-body_regular slds-p-bottom_x-small" c-dapoolcorretor_dapoolcorretor="">...</p>
+  (Session info: chrome=150.0.7871.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x1225843+10883]
+	chromedriver!GetHandleVerifier [0x1225884+108c4]
+	chromedriver!(No symbol) [0x10290e0]
+	chromedriver!(No symbol) [0x1079058]
+	chromedriver!(No symbol) [0x10776e9]
+	chromedriver!(No symbol) [0x10754c5]
+	chromedriver!(No symbol) [0x10746d4]
+	chromedriver!(No symbol) [0x106a0ea]
+	chromedriver!(No symbol) [0x109566c]
+	chromedriver!(No symbol) [0x1069b24]
+	chromedriver!(No symbol) [0x1095834]
+	chromedriver!(No symbol) [0x10b31aa]
+	chromedriver!(No symbol) [0x1095406]
+	chromedriver!(No symbol) [0x1068659]
+	chromedriver!(No symbol) [0x1069424]
+	chromedriver!GetHandleVerifier [0x14bced6+2a7f16]
+	chromedriver!GetHandleVerifier [0x14b847b+2a34bb]
+	chromedriver!GetHandleVerifier [0x14d94eb+2c452b]
+	chromedriver!GetHandleVerifier [0x123f566+2a5a6]
+	chromedriver!GetHandleVerifier [0x124620d+3124d]
+	chromedriver!GetHandleVerifier [0x122e318+19358]
+	chromedriver!GetHandleVerifier [0x122e4c5+19505]
+	chromedriver!GetHandleVerifier [0x12170af+20ef]
+	KERNEL32!BaseThreadInitThunk [0x7597fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x774682ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7746827e+ee]
+

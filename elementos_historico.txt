@@ -1,6 +1,7 @@
 Notificações|type:button
 tag:a|class:cBrandingLogo|title:Gestão de Vendas|text:Gestão de Vendas
 tag:a|class:cSearchInvokeMobile
+tag:a|class:cSearchInvokeMobile|text:Pesquisar
 tag:a|class:forceSkipLink|text:Pular para a navegação
 tag:a|class:forceSkipLink|text:Pular para o conteúdo principal
 tag:a|class:trigger-link  
@@ -21,5 +22,7 @@ tag:iframe|name:sfxdash-1780849666490-847831|title:dashboard
 tag:iframe|name:sfxdash-1780849666495-354313|title:dashboard
 tag:iframe|name:sfxdash-1781812940859-222984|title:dashboard
 tag:iframe|name:sfxdash-1781812940868-597388|title:dashboard
+tag:iframe|name:sfxdash-1782325794677-691560|title:dashboard
+tag:iframe|name:sfxdash-1782325794681-984980|title:dashboard
 tag:img|class: profileIcon ally-image-border|title:Deise Lucia de Lucena Aguiar
 tag:input|id:187:0|class:slds-input slds-text-color_default slds-p-left--none slds-size--1-of-1 input default input uiInput uiInputTextForAutocomplete uiInput--{remove}|title:Procurar...|type:text
